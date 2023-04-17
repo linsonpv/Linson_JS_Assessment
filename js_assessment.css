@@ -1,0 +1,98 @@
+
+
+            body { background-color: rgb(34, 30, 30);margin: -40px 20px 20px 20px ;}
+
+/* part of heading "welcome to the world of" */
+
+            .welfont {
+                
+                font-family:segoe script,cursive;
+                margin-left: 0px;
+                font-size:25px ;
+                color:rgb(218, 226, 233)
+            }
+
+/* part of heading "flying cars" */
+
+            h1 {
+                
+                color: rgb(49, 185, 129);
+                text-align: center;
+                font-size: 85px;
+                margin-top:-20px;
+                padding-bottom: 0px;
+                font-family: ink;
+                background-image: radial-gradient(rgb(77,77,73) 25%, rgb(77, 77, 73) 10%, rgb(34, 30, 30) 50%);
+
+            }
+            
+/* welcome paragraph */
+
+            #welcome {
+                color:rgb(181, 191, 199)
+            }
+            
+/* menu button div */
+
+            div {
+                display: flex;
+                justify-content: center;
+                margin-top: 10px;
+            }
+
+            .menubutton {
+                background-color: rgb(156, 159, 161);
+                border-color: rgb(238, 238, 245);
+                color: rgb(39, 38, 38);
+                padding: 8px 60px;
+                text-align: center;
+                text-decoration: none;-
+                display: inline-block;
+                font-size: 16px;
+                margin: 4px 2px;
+                cursor: pointer;
+                margin-top: -50px;
+
+            }
+           
+            img {width: 67%;margin-top: 20px;margin-left: 30px;border-radius: 40px;opacity: 0.9;}
+
+/* form fields */
+            form {
+                border: 2px solid #ccc;
+                padding: 0px 50px;
+                border-radius: 5px;
+                background-color: #b6b9b7;
+                height: 646px;
+                margin-top: 6px;
+                width: 400px;
+                float:right;
+                margin-right: 60px;
+                                               
+            }
+
+            #comments, #address {
+                height:30px;
+            }
+
+            h2 {
+                font-size: 25px;
+            }
+           #logo{
+            display: flex
+            color: #080808;
+            margin-top: -50px;
+            width: 10%; height: 10%;
+            margin-left: 250px
+                        
+           }
+           #logo img{
+           width: 50%; height: 40%;
+
+           }
+           
+           h5 {
+            margin-top: 25px;
+            color: rgb(44, 44, 46);
+           }
+      
